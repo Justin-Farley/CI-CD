@@ -25,7 +25,7 @@ This E-Commerce API allows for managing customers, customer accounts, products, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ecommerce-api.git
+   git clone https://github.com/your-repo/CI-CD.git
    cd ecommerce-api
 
 2. Create and activate a virtual enviroment:
